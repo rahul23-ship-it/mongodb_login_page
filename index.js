@@ -8,7 +8,7 @@ const jwt = require("jsonwebtoken");
 const mongoose = require("mongoose"); //importing mongoose so that u can connect to the server u have created 
 const { z } = require("zod");  //importing zod for input validation 
 
-mongoose.connect("mongodb+srv://rahulkaladharan2303_db_user:Rahul2003@cluster0.qs1ewis.mongodb.net/todo-app-database");
+mongoose.connect("mongodb+srv://rahulkaladharan2303_db_user:2003@cluster0.qs1ewis.mongodb.net/todo-app-database");
 
 
 
